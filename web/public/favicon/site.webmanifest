@@ -1,0 +1,25 @@
+{
+  "name": "PetPro – At-Home Pet Grooming",
+  "short_name": "PetPro",
+  "description": "Stress-free, professional at-home grooming for dogs and cats.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF7AE",
+  "theme_color": "#7C3AED",
+  "icons": [
+    {
+      "src": "/favicon/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
